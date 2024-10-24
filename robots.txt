@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yakoyovu.github.io/sitemap/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/vCc/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/Usd/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/Usa/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/gen/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/TXB/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/Kix/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/lOV/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/Qwl/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/LfW/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/DbX/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/vPs/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/qlj/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/yFS/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/uFK/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/xME/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/RCL/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/XME/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/ZsT/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/NWi/sitemap_index.yakoyovu
+Sitemap: https://yakoyovu.github.io/xLM/sitemap_index.yakoyovu
